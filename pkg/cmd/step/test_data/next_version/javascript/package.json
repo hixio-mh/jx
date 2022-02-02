@@ -39,8 +39,8 @@
     "@types/mocha": "^2.2.42"
   },
   "dependencies": {
-    "@kubernetes/client-node": "^0.3.0",
-    "vsce": "^1.40.0"
+    "@kubernetes/client-node": "^0.7.1",
+    "vsce": "^2.6.4"
   },
   "keywords": [
     "kubernetes",
